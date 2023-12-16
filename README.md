@@ -12,26 +12,11 @@ Dataset Details & Access
 -------------------------
 The [`Controllable Multimodal Feedback Synthesis (CMFeed) Dataset`][2] dataset' has been compiled by Puneet Kumar and Sarthak Malik under the supervision of Prof. Balasubramanian Raman and Prof. Xiaobai Li. It contains $61734$ samples from $3646$ posts compiled by crawling news articles from Sky News, NYDaily, FoxNews, BBC News, and BBC NW through Facebook posts. It consists of multiple images per sample, corresponding news text, post likes and shares, and human comments. The comments for each post have been sorted based on Facebook's 'most-relevant' criterion.
 
+Representative samples from the CMFeed dataset are shown in the following figure where 'Post Likes' and 'Comment Likes' show the number of likes for the post and comment, respectively. 'Share' denotes post shares and `Senti-class' represents comment's sentiment ($1$: positive, $0$: negative).
+<img src="CMFeed_Samples.jpg" width="90%" align="middle">
 
-\begin{table}[!h]
-\centering
-{\fontsize{8}{10}\selectfont
-\caption{CMFeed dataset's parameters and respective values}
-\label{tab:data}
-\resizebox{.32\textwidth}{!}{
-\begin{tabular}{@{}lc@{}}
-    \toprule
-    \textbf{Parameter}               & \textbf{Value} \\ \midrule
-    No. of news posts                & 3646          \\
-    No. of data samples              & 61734         \\
-    Avg. no. of likes per post       & 65.1           \\
-    Avg. no. of likes per comment    & 10.5           \\
-    Avg. length of news text         & 655 words      \\
-    Avg. no. of images per post      & 3.7            \\
-    Percentage of positive comments  & 39.7           \\ \bottomrule
-\end{tabular}
-}}\vspace{-.1in}
-\end{table}
+Various parameters of the CMFeed dataset have been described in the following Table.
+<img src="CMFeed_Table.jpg" width="90%" align="middle">
 
 Access to the CMFeed dataset can be obtained by through [`Access Form - CMFeed Dataset.pdf`][2].   
 
