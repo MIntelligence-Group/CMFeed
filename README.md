@@ -17,7 +17,7 @@ Representative samples from the CMFeed dataset are shown in the following figure
 <img src="CMFeed_Samples.jpg" width="80%" align="middle">
 
 Various parameters of the CMFeed dataset have been described in the following Table.
-<img src="CMFeed_Table.jpg" width="45%" align="middle">
+<img src="CMFeed_Table.jpg" width="37%" align="middle">
 
 Access to the CMFeed dataset can be obtained by through [`Access Form - CMFeed Dataset.pdf`][2].   
 
