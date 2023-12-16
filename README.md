@@ -1,20 +1,18 @@
-Affective Feedback Synthesis Towards Multimodal Text and Image Data
+Synthesizing Sentiment-Controlled Feedback For Multimodal Text and Image Data
 ================================================
 
-Implementation for the paper (submitted to ACM Transactions on Multimedia Computing, Communications, and Applications). <br>
+Implementation for the paper (submitted to IEEE Transactions on Affective Computing ). <br>
 **[Affective Feedback Synthesis Towards Multimodal Text and Image Data][1]**<br>
-[Puneet Kumar](https://puneet-kr.github.io/), [Gaurav Bhatt](http://deeplearn-ai.com/), Omkar Ingle, Daksh Goyal and [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/)  
+[Puneet Kumar](https://puneet-kr.github.io/), Sarthak Malik, [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/) and Xiaobai Li. 
 
 ## Code Files
-The files baseline1.ipynb, baseline2.ipynb and baseline3.ipynb contain the implmentation for the baseline models whereas the final model's implementation can be found in ```MMFeed.ipynb```.
+The code files are currently private and will be made public after the acceptance/publication of the corresponding paper. 
 
 Dataset Details & Access
 -------------------------
-The [`IIT Roorkee Multimodal Feedback (IIT-R MMFeed) Dataset`][2] dataset' has been compiled by Puneet Kumar, Omkar Ingle, Daksh Goyal and Gaurav Bhatt at Machine Intelligence Lab, IIT Roorkee under the supervision of Prof. Balasubramanian Raman. It consists of 9,479 samples containing news text, images, user comments, and the number of likes for each comment. The process to crawl the data from Twitter feeds is depicted in the following diagram:
-<!--![IIT-R MMFeed dataset construction](data_construction.jpg)-->
-<img src="data_construction.jpg" width="90%" align="middle">
+The [`Controllable Multimodal Feedback Synthesis (CMFeed) Dataset`][2] dataset' has been compiled by Puneet Kumar and Sarthak Malik under the supervision of Prof. Balasubramanian Raman and Prof. Xiaobai Li. It contains $61734$ samples from $3646$ posts compiled by crawling news articles from Sky News, NYDaily, FoxNews, BBC News, and BBC NW through Facebook posts. It consists of multiple images per sample, corresponding news text, post likes and shares, and human comments. The comments for each post have been sorted based on Facebook's `most-relevant' criterion.
 
-Access to the IIT-R MMFeed dataset can be obtained by through [`Access Form - IIT-R MMFeed Dataset.pdf`][2].   
+Access to the CMFeed dataset can be obtained by through [`Access Form - CMFeed Dataset.pdf`][2].   
 
 [1]: https://dl.acm.org/journal/tomm
-[2]:https://github.com/MIntelligence-Group/MMFeed/blob/main/Access%20Form%20-%20IIT-R%20MMFeed%20Dataset.pdf
+[2]: https://github.com/MIntelligence-Group/CMFeed/blob/main/Access%20Form%20-%20CMFeed%20Dataset.pdf
