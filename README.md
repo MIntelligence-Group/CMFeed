@@ -14,7 +14,7 @@ The [`Controllable Multimodal Feedback Synthesis (CMFeed) Dataset`][2] dataset' 
 
 Representative samples from the CMFeed dataset are shown in the following figure where 'Post Likes' and 'Comment Likes' show the number of likes for the post and comment, respectively. 'Share' denotes post shares and `Senti-class' represents comment's sentiment ($1$: positive, $0$: negative).
 
-<img src="CMFeed_Samples.jpg" width="90%" align="middle">
+<img src="CMFeed_Samples.jpg" width="80%" align="middle">
 
 Various parameters of the CMFeed dataset have been described in the following Table.
 <img src="CMFeed_Table.jpg" width="45%" align="middle">
