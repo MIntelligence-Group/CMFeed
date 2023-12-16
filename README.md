@@ -14,5 +14,5 @@ The [`Controllable Multimodal Feedback Synthesis (CMFeed) Dataset`][2] dataset' 
 
 Access to the CMFeed dataset can be obtained by through [`Access Form - CMFeed Dataset.pdf`][2].   
 
-[1]: https://dl.acm.org/journal/tomm
+[1]: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369
 [2]: https://github.com/MIntelligence-Group/CMFeed/blob/main/Access%20Form%20-%20CMFeed%20Dataset.pdf
