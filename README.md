@@ -1,7 +1,7 @@
 Synthesizing Sentiment-Controlled Feedback For Multimodal Text and Image Data
 ================================================
 
-Implementation for the paper (submitted to IEEE Transactions on Affective Computing ). <br>
+Implementation for the paper (submitted to IEEE Transactions on Affective Computing). <br>
 **[Affective Feedback Synthesis Towards Multimodal Text and Image Data][1]**<br>
 [Puneet Kumar](https://puneet-kr.github.io/), Sarthak Malik, [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/) and Xiaobai Li. 
 
@@ -16,7 +16,7 @@ Representative samples from the CMFeed dataset are shown in the following figure
 <img src="CMFeed_Samples.jpg" width="90%" align="middle">
 
 Various parameters of the CMFeed dataset have been described in the following Table.
-<img src="CMFeed_Table.jpg" width="90%" align="middle">
+<img src="CMFeed_Table.jpg" width="50%" align="middle">
 
 Access to the CMFeed dataset can be obtained by through [`Access Form - CMFeed Dataset.pdf`][2].   
 
