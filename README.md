@@ -13,14 +13,14 @@ Dataset Details & Access
 The [`Controllable Multimodal Feedback Synthesis (CMFeed) Dataset`][2] dataset' has been compiled by Puneet Kumar and Sarthak Malik under the supervision of Prof. Balasubramanian Raman and Prof. Xiaobai Li. It contains $61734$ samples from $3646$ posts compiled by crawling news articles from Sky News, NYDaily, FoxNews, BBC News, and BBC NW through Facebook posts. It consists of multiple images per sample, corresponding news text, post likes and shares, and human comments. The comments for each post have been sorted based on Facebook's 'most-relevant' criterion.
 
 Representative samples from the CMFeed dataset are shown in the following figure where 'Post Likes' and 'Comment Likes' show the number of likes for the post and comment, respectively. 'Share' denotes post shares and `Senti-class' represents comment's sentiment ($1$: positive, $0$: negative).
-<img src="Samples.jpg" width="80%" align="middle">
+<img src="data_samples.jpg" width="80%" align="middle">
 
 The process to crawl the data from Twitter feeds is depicted in the following diagram:
 <!--![IIT-R MMFeed dataset construction](data_construction.jpg)-->
 <img src="data_construction.jpg" width="90%" align="middle">
 
 Various parameters of the CMFeed dataset have been described in the following Table.
-<img src="CMFeed_Table.jpg" width="37%" align="middle">
+<img src="data_table.jpg" width="37%" align="middle">
 
 Access to the CMFeed dataset can be obtained by through [`Access Form - CMFeed Dataset.pdf`][2].   
 
