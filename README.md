@@ -13,13 +13,13 @@ The [`Controllable Multimodal Feedback Synthesis (CMFeed) Dataset`][2] has been 
 
 This data has been collected through manual crawling from news websites and corresponding Facebook posts in the public domain while adhering to [Facebook's terms and conditions][3].
 
-### Explanation about Compliance to Facebook Terms & Conditions
+### Explanation about Compliance to Facebook's Terms & Conditions
 Facebook prohibits automatic scraping of its users' personal data. Complying with these conditions, we:  
 1) Crawl the data manually (as per the steps described below) [Ref][4]. We do not perform automatic data scraping. 
 2) Collect the public data corresponding to public news articles [Ref][5]. 
 
 ## Steps involved in Data Collection
-The process to manually crawl the data is depicted in the following diagram:
+[ToDo] Update these steps. The process to manually crawl the data is depicted in the following diagram:
 
 <img src="data_construction.jpg" width="90%" align="middle">
 
