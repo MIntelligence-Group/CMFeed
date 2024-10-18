@@ -1,7 +1,7 @@
 # CMFeed: A Benchmark Dataset for Controllable Multimodal Feedback Synthesis
 
-Implementation for the paper submitted to NeurIPS 2024 Datasets and Benchmarks Track.  
-**[CMFeed: A Benchmark Dataset for Controllable Multimodal Feedback Synthesis][1]**  
+Implementation for the paper submitted to ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).  
+**[Synthesizing Sentiment-Controlled Feedback For Multimodal Text and Image Data][1]**  
 [Puneet Kumar](https://puneet-kr.github.io/), [Sarthak Malik](https://www.linkedin.com/in/sarthak-malik-03777a190/), [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/), and [Xiaobai Li](https://www.oulu.fi/en/researchers/xiaobai-li). 
 
 ## Code Files
